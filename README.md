@@ -1,4 +1,4 @@
-# docker-mysql-playground
+# docker-mysql-sandbox
 
 ```
 $ cp .envrc.test .encrc
